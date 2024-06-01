@@ -5,16 +5,16 @@ simplified minimalistic script to only retrive local password.
 original code from here: https://github.com/NickWaterton/Roomba980-Python/blob/master/roomba/getcloudpassword.py
 
 
-#setup
+# setup
 install requirements ( just python requests )
 ```
 pip install -r requirements.txt
 ```
 
-#usage
+# usage
 ```
 python get_cloud_password.py "your irobot login" "your irobot password"
 ```
 
-#output
+# output
 returns id, name, and password for all roomba's linked to account
