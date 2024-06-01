@@ -2,7 +2,9 @@
 dumps local passwords from irobot's "cloud" for roomba robots so you can gain local mqtt access to your roomba
 
 simplified minimalistic script to only retrive local password. 
+
 original code from here: https://github.com/NickWaterton/Roomba980-Python/blob/master/roomba/getcloudpassword.py
+
 which is apparently based on: https://github.com/koalazak/dorita980/blob/master/bin/getPasswordCloud.js
 
 
